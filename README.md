@@ -1,3 +1,23 @@
+
+![image](https://user-images.githubusercontent.com/118725578/226176095-8719b4b5-2f71-49e2-9c37-c8e57199b0f5.png)
+
+
+[![Linkedin: Taida](https://img.shields.io/badge/-Taida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taida-costa-catalán-8550b146)](https://www.linkedin.com/in/taida-costa-catalán-8550b146/) [![GitHub Likimeya](https://img.shields.io/github/followers/Taida?label=follow&style=social)](https://github.com/Likimeya) 
+
+**Objectius**
+
+Construir diagrames entitat-relació i relacionals.
+
+Construir una base de dades relacional senzilla amb MySQL.
+
+Realitzar consultes senzilles.
+
+Realitza operacions la base de dades MySQL.
+
+
+
+
+
 # Base-de-dades
 Tasca M1 T01
 Exercicis amb MySQL.
